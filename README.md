@@ -1,0 +1,1 @@
+# BF-super-fast-mode
